@@ -1,4 +1,4 @@
-# Hi there, I'm Ameed Hazza Ali Mohammed 👋
+# Hi there, I'm Ameed  Mohammed 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Penetration+Testing+%7C+Network+Security;Building+Security+Tools+with+Python;Learning+%7C+Practicing+%7C+Securing" alt="Typing SVG" />
