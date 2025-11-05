@@ -116,20 +116,17 @@ Coming soon... Building practical cybersecurity tools:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameed25mohammed&theme=dark&hide_border=true&background=0d1117&stroke=00f700&ring=00f700&fire=00f700&currStreakLabel=00f700" alt="GitHub Streak" />
 </p>
 
-## 🎯 Learning Path
+## 🎯 My Cybersecurity Journey
 
-```mermaid
-graph LR
-    A[Networking Basics] --> B[Linux Fundamentals]
-    B --> C[Python Scripting]
-    C --> D[Security Tools]
-    D --> E[Penetration Testing]
-    E --> F[Threat Analysis]
-    F --> G[Incident Response]
-    
-    style A fill:#00f700,stroke:#333,stroke-width:2px,color:#000
-    style G fill:#00f700,stroke:#333,stroke-width:2px,color:#000
 ```
+📡 Networking Basics → 🐧 Linux Fundamentals → 🐍 Python Scripting
+                                    ↓
+    🔧 Security Tools ← 🎯 Penetration Testing ← 🔍 Threat Analysis
+                                    ↓
+                        🚨 Incident Response
+```
+
+**Current Stage**: Building Security Tools & Practicing Penetration Testing
 
 ## 🔨 What I'm Working On
 
